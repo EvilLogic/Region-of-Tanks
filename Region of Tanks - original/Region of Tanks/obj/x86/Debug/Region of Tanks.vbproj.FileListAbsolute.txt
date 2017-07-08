@@ -1,0 +1,110 @@
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+P:\Visual Studio 2010\Projects\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+E:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+E:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+E:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+I:\Visual Studio\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+I:\Visual Studio\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+I:\Visual Studio\Region of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+I:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.vbproj.GenerateResource.Cache
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+I:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+I:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+I:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.vbproj.GenerateResource.Cache
+I:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+E:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+E:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+E:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+E:\Visual Studio\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.vbproj.GenerateResource.Cache
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VictorADekhtyar\Desktop\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Resources\Bullet1.png
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.exe
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.pdb
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\bin\Debug\Region of Tanks.xml
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Visual Studio\Legend of Tanks\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmScore.resources
+I:\Visual Studio\Legend of Tanks\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmScore.resources
+J:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+J:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+J:\Visual Studio\Region of Tanks\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+P:\Visual Studio 2010\Projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+P:\Visual Studio 2010\Projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+P:\Visual Studio 2010\Projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.exe
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.xml
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.pdb
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\bin\Debug\Resources\Bullet1.png
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\bin\Debug\Region of Tanks.exe
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\bin\Debug\Region of Tanks.pdb
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\bin\Debug\Region of Tanks.xml
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmTanks.resources
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region_of_Tanks.Resources.resources
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region_of_Tanks.frmScore.resources
+C:\Users\EvilLogic\Desktop\projects\Region of Tanks - original\Region of Tanks\obj\x86\Debug\Region of Tanks.vbproj.GenerateResource.Cache
